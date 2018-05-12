@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8793
     wikipedia: http://en.wikipedia.org/wiki/William_Alfred_Quayle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19647#A-Hero-and-Some-Other-Folks
 gutenberg_issued: '2006-10-27'
 gutenberg_type: Text
 identifiers:
